@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ○○○</h1>
+<h1 align="center">Hi 👋, I'm Toshiaki Tanaka</h1>
 <h3 align="center">A passionate developer in Japan</h3>
 
 <h3 align="left">Connect with me:</h3>
