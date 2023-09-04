@@ -7,7 +7,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQLのスキーマ設計４　ー　MySQLのバイナリデータ型](https://zenn.dev/gorogoroumaru/articles/4cbfefd5a7425d)
+- [MySQLのスキーマ設計４　ー　MySQLのバイナリデータ型 BINARY, VARBINARY](https://zenn.dev/gorogoroumaru/articles/4cbfefd5a7425d)
 - [MySQLのスキーマ設計３　ー　MySQLの文字列型 CHAR, VARCHAR](https://zenn.dev/gorogoroumaru/articles/0e61b08208282d)
 - [MySQLのスキーマ設計2　ー　MySQLの小数値型](https://zenn.dev/gorogoroumaru/articles/f0fac6f2677d3e)
 - [Cloudflare Pagesでalgoliaを使うときに「XMLHttpRequest is not defined」となった時の対処法](https://zenn.dev/gorogoroumaru/articles/2d68efcbb2eefd)
