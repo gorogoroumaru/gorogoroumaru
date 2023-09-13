@@ -7,10 +7,10 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQLのJSON型　詳解](https://zenn.dev/gorogoroumaru/articles/84e440a29d5960)
 - [MySQLの時間データ型　詳解](https://zenn.dev/gorogoroumaru/articles/8d5e687d6d88a5)
 - [MySQLのENUM型　詳解](https://zenn.dev/gorogoroumaru/articles/e1928b2a5821a5)
 - [MySQLのTEXT、BLOB　詳解](https://zenn.dev/gorogoroumaru/articles/56222a092d2924)
+- [MySQLのバイナリデータ型 BINARY, VARBINARY　詳解](https://zenn.dev/gorogoroumaru/articles/4cbfefd5a7425d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
