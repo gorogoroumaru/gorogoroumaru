@@ -7,10 +7,10 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [MySQL　ー　InnoDBにおける各データ型のサイズまとめ](https://zenn.dev/gorogoroumaru/articles/7b3b8cf2aeef63)
 - [MySQLのJSON型　詳解](https://zenn.dev/gorogoroumaru/articles/84e440a29d5960)
 - [MySQLの時間データ型　詳解](https://zenn.dev/gorogoroumaru/articles/8d5e687d6d88a5)
 - [MySQLのENUM型　詳解](https://zenn.dev/gorogoroumaru/articles/e1928b2a5821a5)
-- [MySQLのTEXT、BLOB　詳解](https://zenn.dev/gorogoroumaru/articles/56222a092d2924)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
