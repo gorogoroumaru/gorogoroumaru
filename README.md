@@ -8,10 +8,10 @@
 <h3 align="left">技術ブログ</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go言語で自作するDNSパケットパーサー](https://zenn.dev/gorogoroumaru/articles/3c565097fcb37c)
 - [バイナリを読み解いて学ぶDNSパケットの構造](https://zenn.dev/gorogoroumaru/articles/00ca59c178535e)
 - [MySQLのB+ツリーインデックスの概要](https://zenn.dev/gorogoroumaru/articles/1b0ca98aaebbef)
 - [[MySQL] InnoDBにおける各データ型のサイズまとめ](https://zenn.dev/gorogoroumaru/articles/7b3b8cf2aeef63)
-- [MySQLのJSON型　詳解](https://zenn.dev/gorogoroumaru/articles/84e440a29d5960)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">技術スタック</h3>
