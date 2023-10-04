@@ -8,10 +8,10 @@
 <h3 align="left">技術ブログ</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [SQLのクエリ内実行順序を理解する](https://zenn.dev/gorogoroumaru/articles/a30f63a3eef7f2)
 - [UUIDv7が解決するMySQLのプライマリキーに関するパフォーマンス問題](https://zenn.dev/gorogoroumaru/articles/6dff69b1a592a2)
 - [Go言語で自作するDNSパケットパーサー](https://zenn.dev/gorogoroumaru/articles/3c565097fcb37c)
 - [バイナリを読み解いて学ぶDNSパケットの構造](https://zenn.dev/gorogoroumaru/articles/00ca59c178535e)
-- [MySQLのB+ツリーインデックスの概要](https://zenn.dev/gorogoroumaru/articles/1b0ca98aaebbef)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">技術スタック</h3>
