@@ -8,10 +8,10 @@
 <h3 align="left">技術ブログ</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [超丁寧に解説するDEFLATEアルゴリズム 1/2 ー ハフマン符号とLZ77アルゴリズム](https://zenn.dev/gorogoroumaru/articles/495cc9a97513b0)
 - [SQLのクエリ内実行順序を理解する](https://zenn.dev/gorogoroumaru/articles/a30f63a3eef7f2)
 - [UUIDv7が解決するMySQLのプライマリキーに関するパフォーマンス問題](https://zenn.dev/gorogoroumaru/articles/6dff69b1a592a2)
 - [Go言語で自作するDNSパケットパーサー](https://zenn.dev/gorogoroumaru/articles/3c565097fcb37c)
-- [バイナリを読み解いて学ぶDNSパケットの構造](https://zenn.dev/gorogoroumaru/articles/00ca59c178535e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">技術スタック</h3>
