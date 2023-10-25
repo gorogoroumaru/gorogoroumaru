@@ -8,10 +8,10 @@
 <h3 align="left">技術ブログ</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [開発者が知るべきキャッシュ設計でよく遭遇する問題](https://zenn.dev/gorogoroumaru/articles/98f6083f493252)
 - [図解Deflateアルゴリズム 2/2 ー 圧縮の流れとDeflateブロックの構造](https://zenn.dev/gorogoroumaru/articles/ac71193c5034de)
 - [図解DEFLATEアルゴリズム 1/2 ー ハフマン符号とLZ77アルゴリズム](https://zenn.dev/gorogoroumaru/articles/495cc9a97513b0)
 - [SQLのクエリ内実行順序を理解する](https://zenn.dev/gorogoroumaru/articles/a30f63a3eef7f2)
-- [UUIDv7が解決するMySQLのプライマリキーに関するパフォーマンス問題](https://zenn.dev/gorogoroumaru/articles/6dff69b1a592a2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">技術スタック</h3>
