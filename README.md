@@ -8,7 +8,7 @@
 <h3 align="left">技術ブログ</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [図解キャッシュアルゴリズム１（LRU, LFU）](https://zenn.dev/gorogoroumaru/articles/0a287d6c0c18d3)
+- [図解キャッシュ置換アルゴリズム１（LRU, LFU）](https://zenn.dev/gorogoroumaru/articles/0a287d6c0c18d3)
 - [開発者が知るべきキャッシュ設計でよく遭遇する問題](https://zenn.dev/gorogoroumaru/articles/98f6083f493252)
 - [図解Deflateアルゴリズム 2/2 ー 圧縮の流れとDeflateブロックの構造](https://zenn.dev/gorogoroumaru/articles/ac71193c5034de)
 - [図解DEFLATEアルゴリズム 1/2 ー ハフマン符号とLZ77アルゴリズム](https://zenn.dev/gorogoroumaru/articles/495cc9a97513b0)
