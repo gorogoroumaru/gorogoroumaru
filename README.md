@@ -8,7 +8,7 @@
 <h3 align="left">技術ブログ</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [図解W-TinyLFUアルゴリズム](https://zenn.dev/gorogoroumaru/articles/97cea1d1674630)
+- [LFUの進化形！　キャッシュ置換アルゴリズムW-TinyLFUを図解する](https://zenn.dev/gorogoroumaru/articles/97cea1d1674630)
 - [図解キャッシュ置換アルゴリズム（SLRU,  ARC,  LIRS）](https://zenn.dev/gorogoroumaru/articles/e4495a8208f424)
 - [図解キャッシュ置換アルゴリズム（LRU, LFU）](https://zenn.dev/gorogoroumaru/articles/0a287d6c0c18d3)
 - [開発者が知るべきキャッシュ設計でよく遭遇する問題](https://zenn.dev/gorogoroumaru/articles/98f6083f493252)
